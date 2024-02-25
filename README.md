@@ -5,4 +5,4 @@ Deploying EKS Cluster using Terraform and Jenkins
 2. Write the Terraform code for EKS cluster
 3. Create a Jenkins pipeline >> EKS Cluster
 4. Deploy the changes to AWS
-5. Implement a Deployment file using Kubeclt command for testing 
+5. Implement a Deployment file using Kubectl command for testing 
